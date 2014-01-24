@@ -1,11 +1,13 @@
 {
-  "name": "stem",
-  "version": "0.24.0",
+  "name": "stockbot",
+  "version": "0.1.0",
   "dependencies": {
     "steam": "0.6.5",
     "steam-trade": "git://github.com/seishun/node-steam-trade.git",
     "moment": "~2.5.0",
     "winston": "~0.7.2",
-    "steam-tradeoffers": "git://github.com/Alvinlz/node-steam-tradeoffers.git"
+    "steam-tradeoffers": "git://github.com/Alvinlz/node-steam-tradeoffers.git",
+    "redis": "~0.10.0",
+    "hiredis": "~0.1.16"
   }
 }

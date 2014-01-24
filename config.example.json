@@ -2,9 +2,9 @@
   "botname": "",
   "username": "",
   "password": "",
-  "admins": ["76561198042819371", "203819413413"],
+  "admins": ["76561198042819371"],
   "autoAccept": true,
-  "idle": true,
+  "idle": false,
   "idleGames": [440],
   "debug": false,
   "tradeWhitelist": {
@@ -21,5 +21,12 @@
   "messages": {
     "hi": "hello!",
     "i love you": "I love you too :)"
+  },
+  "qu": {
+    "pollTime": 2000,
+    "game": {
+      "appID": 440,
+      "contextID": 2
+    }
   }
 }
