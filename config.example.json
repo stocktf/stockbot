@@ -27,6 +27,7 @@
     "game": {
       "appID": 440,
       "contextID": 2
-    }
+    },
+    "friendRequestTimeout": 15000
   }
 }
