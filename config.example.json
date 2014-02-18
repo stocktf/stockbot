@@ -30,6 +30,7 @@
     },
     "friendRequestTimeout": 15000
   },
+  "denyMessage": "Sorry, but all trades need to be done through https://stock.tf",
   "papertrail": {
     "enabled": false,
     "port": 00000
