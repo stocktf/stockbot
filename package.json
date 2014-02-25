@@ -1,14 +1,14 @@
 {
   "name": "stockbot",
-  "version": "0.14.0",
+  "version": "0.15.0",
   "dependencies": {
-    "steam": "0.6.5",
+    "steam": "^0.6.5",
     "steam-trade": "git://github.com/stocktf/node-steam-trade.git",
-    "moment": "~2.5.0",
-    "winston": "~0.7.2",
+    "moment": "^2.5.0",
+    "winston": "^0.7.2",
     "steam-tradeoffers": "git://github.com/Alvinlz/node-steam-tradeoffers.git",
-    "redis": "~0.10.0",
-    "hiredis": "~0.1.16",
-    "winston-papertrail": "~0.1.4"
+    "redis": "^0.10.0",
+    "hiredis": "^0.1.16",
+    "winston-papertrail": "^0.1.4"
   }
 }
