@@ -1,6 +1,6 @@
 {
   "name": "stockbot",
-  "version": "0.15.2",
+  "version": "0.16.1",
   "dependencies": {
     "steam": "^0.6.5",
     "steam-trade": "git://github.com/stocktf/node-steam-trade.git",
